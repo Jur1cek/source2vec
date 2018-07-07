@@ -6,22 +6,26 @@ Source code embeddings for various programming languages
 
 ## Java
 #### Word2vec
-#### Glove
+#### FastText
+#### GloVe
 
 
 ## Python
 #### Word2vec
-#### Glove
+#### FastText
+#### GloVe
 
 
 ## C
 #### Word2vec
-#### Glove
+#### FastText
+#### GloVe
 
 
 ## C++
 #### Word2vec
-#### Glove
+#### FastText
+#### GloVe
 
 
 ...more languages comming soon
