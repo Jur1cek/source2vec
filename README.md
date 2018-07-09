@@ -29,7 +29,7 @@ http://dizp.fufygen.eu/embeddings/java/glove/java_glove_vectors.txt.zip
 Created from 838 million tokens  
 Window (context) size 5  
 Minimum number of occurrences 10  
-Vocabulary http://dizp.fufygen.eu/embeddings/python/python_vocab.txt.zip
+Vocabulary http://dizp.fufygen.eu/embeddings/python/python_vocab.txt.zip  
 Sample visualisation (FastText, 128 vector size) ![fasttext vis](images/python_fasttext_128.png)
 
 ### Word2vec
