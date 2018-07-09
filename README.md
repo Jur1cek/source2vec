@@ -79,11 +79,11 @@ FastText vectors are created using 2 to 6 character ngrams
 
 ## How to load embeddings (python)
 
-see [load_embeddings.ipynb](load_embeddings.ipynb)
+see [load_embeddings.ipynb](https://nbviewer.jupyter.org/github/Jur1cek/source2vec/blob/master/load_embeddings.ipynb)
 
 ## Dimensionality reduction and visualisation of embeddings
 
-see [visualise_embeddings.ipynb](visualise_embeddings.ipynb)
+see [visualise_embeddings.ipynb](https://nbviewer.jupyter.org/github/Jur1cek/source2vec/blob/master/visualise_embeddings.ipynb)
 
 
 Paper comming out soon.
