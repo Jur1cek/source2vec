@@ -6,7 +6,7 @@ Source code files are preprocessed using standard tokenization (it could not be 
 
 ## Java
 
-Created from 1792 million tokens  
+Created from 1720 million tokens  
 Window (context) size 5  
 Minimum number of occurrences 10  
 Vocabulary http://dizp.fufygen.eu/embeddings/java/java_vocab.txt.zip  
@@ -30,7 +30,7 @@ Created from 838 million tokens
 Window (context) size 5  
 Minimum number of occurrences 10  
 Vocabulary http://dizp.fufygen.eu/embeddings/python/python_vocab.txt.zip  
-Sample visualisation (FastText, 128 vector size) ![fasttext vis](images/python_fasttext_128.png)
+Sample visualisation (FastText, 128 vector size) ![python fasttext vis](images/python_fasttext_128.png)
 
 ### Word2vec
 
@@ -54,10 +54,11 @@ Created from 6589 million tokens
 Window (context) size 7  
 Minimum number of occurrences 20  
 Vocabulary http://dizp.fufygen.eu/embeddings/c/c_vocab.txt.zip  
+Sample visualisation (FastText) ![c fasttext vis](images/c_fasttext.png)  
 
 ### Word2vec
 
-TBA
+http://dizp.fufygen.eu/embeddings/c/word2vec/c_word2vec.zip
 
 ### FastText
 
