@@ -10,14 +10,16 @@ Created from 1720 million tokens
 Window (context) size 5  
 Minimum number of occurrences 10  
 Vocabulary http://dizp.fufygen.eu/embeddings/java/java_vocab.txt.zip  
+Sample visualisation (FastText) ![java fasttext vis](images/java_fasttext.png)  
 
 ### Word2vec
 
-TBA
+http://dizp.fufygen.eu/embeddings/java/word2vec/java_word2vec.zip
 
 ### FastText
 
-TBA
+http://dizp.fufygen.eu/embeddings/java/fasttext/java_fasttext_model.bin.zip
+http://dizp.fufygen.eu/embeddings/java/fasttext/java_fasttext_model.vec.zip
 
 ### GloVe
 
